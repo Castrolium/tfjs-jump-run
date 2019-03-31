@@ -1,0 +1,20 @@
+TODO:
+
+- iphone fullscreen
+- avoid double jumps
+- show score on level finish
+- define a next level
+
+
+IDEAS:
+
+- vertical scroll
+- die animation
+- Teleporters
+- Speed Boosters
+- scrolling background image
+
+
+PROFILING:
+
+- drawlevel: ~2.491ms
