@@ -2,8 +2,9 @@ Control jump and run game with camera using HTML5 messages and
 webcam-transfer-learning example
 
 Sources:
-https://github.com/digitaltom/jump-run
-https://github.com/tensorflow/tfjs-examples
+
+- https://github.com/digitaltom/jump-run
+- https://github.com/tensorflow/tfjs-examples
 
 Modifications:
 
