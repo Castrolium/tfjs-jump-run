@@ -25,19 +25,19 @@ var levels = [
         background: '#207720',
         template:[
             "     y                              p         cccc      ccc                                                                   ",
-            "  123                            zzzzzzzz    zzzzzz    zzzzz      µµµµ        ~                                               ",
-            "  456       cc  ~                                                           µµµµ                                              ",
-            "           zzzzzzz                  zzzz z  z zzzz zzzz                                ~                                      ",
-            "                          y         z    z  z z    z                     y          zzzzz                                     ",
+            "  123                            zzzzzzzz    zzzzzz    zzzzz      µµµµ                                                        ",
+            "  456       cc  ~                                                                                                             ",
+            "           zzzzzzz                  zzzz z  z zzzz zzzz                                                                       ",
+            "                          y         z    z  z z    z                                zzzzz                                     ",
             "  zzzzz                             zzzz z  z zzzz zz?                                                                        ",
             "                      zzz??z           z z  z    z z                           zzz                                            ",
             "         zzz?z                      ?zzz zzzz z?zz zzzz                                                                       ",
-            "                                                                         zzz                                                  ",
-            "                 p            p                 p p p     ~                                                                   ",
-            "           zzzzzzzzzzzzzzzzzzzzzz    zzzzzzz?z?z?z?zzzzzzzz        zzzz                                  Z                    ",
-            "   ^                                      y                                                             ZZZ                   ",
-            "  /ü`                                                                     p         p                   ZBZ                   ",
-            "88888888888@@@@@@@@@@@@@@@@@@@@@@88888888888888888888888888888888888@@888888888888888888@@@@@@@@@88888888888888888888888888888"
+            "                                                                         zzz            z                                     ",
+            "                 p            p                 p p p     ~                             z                                     ",
+            "           zzzzzzzzzzzzzzzzzzzzzz    zzzzzzz?z?z?z?zzzzzzzz        zzzz                 z                Z                    ",
+            "   ^       z                    z         y                        z  z                 z               ZZZ                   ",
+            "  /ü`      z                    z                                  z  z   p         p   z               ZBZ                   ",
+            "888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888"
         ]
     },
     {
@@ -78,12 +78,12 @@ var levels = [
             "    z zccz    z z      z    z  z z  zz   z    z  z  z    z                zzzz                                  ",
             " zzzz zzzz zzzz zzzz   zz?z zzzz z   z   zzzz zzzz  z zzzz                                                      ",
             "                                                                      ?zz                                       ",
-            "                                                                                                                ",
-            "                 p   ~     p                    p   p                                                           ",
-            "           zzzzzzzzzzzzzzzzzzzzzz    zzzzzzz?z?z?z?zzzzzzzz        zzzz                 c                Z      ",
-            "   ^                                      y                                            c                ZZZ     ",
-            "  /ü`                                                           p                   p            c      ZBZ     ",
-            "88888888888@@@@@@@@@@@@@@@@@@@@@@88888888888888888888888888888888888@@8888@@@@@@@@@88888888888888888888888888888"
+            "                                                                              z                                 ",
+            "                 p   ~     p                    p   p                         z                                 ",
+            "           zzzzzzzzzzzzzzzzzzzzzz    zzzzzzz?z?z?z?zzzzzzzz        zzzz       z         c                Z      ",
+            "   ^       z                    z         y                        z  z       z        c                ZZZ     ",
+            "  /ü`      z                    z                               p  z  z       z     p            c      ZBZ     ",
+            "8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888"
         ]
     }
 ];

@@ -84,6 +84,7 @@
   // TFJS-JUMP-RUN: Verarbeite Nachricht von Tensorflow
   window.addEventListener('message', function(evt)
   {
+    console.log('received message', evt.data);
     var message = JSON.parse(evt.data);
 
     if (message.action == 'start')

@@ -55561,6 +55561,7 @@ function predictClass(classId) {
   // TFJS-JUMP-RUN: Sende Kamera Ereignis als Nachricht an Jump-Run
   document.getElementById('jump-run').contentWindow.postMessage(
     JSON.stringify({'action': 'predict', 'classId': classId}));
+  console.log('sending message');
   document.body.setAttribute('data-active', CONTROLS[classId]);
 }
 
