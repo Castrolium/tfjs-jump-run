@@ -437,7 +437,7 @@ function initializeLevel() {
 }
 
 function resetPlayer() {
-    player.lives = 3
+    player.lives = 10
     score = 0
     player.pos.x = 0
     respawnPlayer()
